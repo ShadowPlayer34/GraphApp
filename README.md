@@ -21,7 +21,7 @@
   <li>Click calculate</li>
 </ol>
 <h2>User Guide</h2>
-<p>After installation you can already use the application.<br> When you enter the application, you immediately see you will see a field for entering data of the graph. To move a vertex, you need to click on it, thereby selecting it, and then move it. To add a new graph, click on the plus in the upper right corner. The bottom bar with buttons is used to add, remove and change the color of vertices and edges</p>
+<p>After installation you can already use the application.<br> When you enter the application, you immediately see you will see a field for entering data of the graph.<br> To move a vertex, you need to click on it, thereby selecting it, and then move it.<br> To add a new graph, click on the plus in the upper right corner.<br> The bottom bar with buttons is used to add, remove and change the color of vertices and edges</p>
 <h2>Pictures</h2>
 <div>
   <p>
